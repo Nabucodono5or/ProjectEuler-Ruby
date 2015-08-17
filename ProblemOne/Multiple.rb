@@ -1,6 +1,6 @@
 # encoding: utf-8
 def problem_one
-	total = 0;
+	total = 0
 	max = 1000
 
 	for numero in (1..max-1)
