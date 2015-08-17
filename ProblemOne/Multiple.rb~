@@ -1,4 +1,3 @@
-# encoding: utf-8
 def problem_one
 	total = 0;
 	max = 1000
